@@ -1,6 +1,6 @@
-# issues
+# urlscan.io - Issues, Technical Questions, Feature Requests
 
-An issues only repository for urlscan.io.
+This is the official urlscan.io issues only repository for submitting any issues or feature requests.
 
 - [Bug report](https://github.com/urlscan/issues/issues/new?template=bug_report.md)
 - [Feature request](https://github.com/urlscan/issues/issues/new?template=feature_request.md)
