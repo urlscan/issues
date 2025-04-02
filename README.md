@@ -3,6 +3,7 @@
 This is the official issues only repository for submitting any issues or feature requests about urlscan.io.
 
 - [Bug report](https://github.com/urlscan/issues/issues/new?template=bug_report.md)
+- [Question](https://github.com/urlscan/issues/issues/new?template=question.md)
 - [Feature request](https://github.com/urlscan/issues/issues/new?template=feature_request.md)
 
 > [!NOTE]
